@@ -42,7 +42,7 @@ First/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/fastapi-starter.git
+git clone https://github.com/Tahir-Abbas-555/HelloWorld-FastAPI
 cd fastapi-starter
 ```
 
